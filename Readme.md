@@ -18,15 +18,11 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git (https://github.com/rohitq1/Advanced-Cross-Domain-Image-Synthesis-Through-Generative-Adversarial-Architectures.git)
    ```
 2. Navigate to the project directory:
    ```bash
    cd <project_directory>
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
